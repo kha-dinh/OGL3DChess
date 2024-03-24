@@ -1,3 +1,4 @@
+#define GL_SILENCE_DEPRECATION
 // Lab3.cpp : Defines the entry point for the console application.
 //
 
